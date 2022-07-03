@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Oli Investing',
-  domain: 'https://zhenzhang1990.notion.site/Oli-investing-802cfdbdbe2146d38b109a7ac4737b83',
-  author: 'Zhen Zhang',
+  domain: 'https://zhenzhang1990.notion.site/Oli-investing-ea55b79015134b99b9409772cd125720',
+  author: 'Oli Capital',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
