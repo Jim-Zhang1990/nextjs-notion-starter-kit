@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Oli-investing-802cfdbdbe2146d38b109a7ac4737b83',
+  rootNotionPageId: 'https://zhenzhang1990.notion.site/Oli-investing-ea55b79015134b99b9409772cd125720',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
