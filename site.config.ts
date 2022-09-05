@@ -11,13 +11,13 @@ export default siteConfig({
   // basic site info (required)
   name: 'Oli Investing',
   domain: 'https://zhenzhang1990.notion.site/Oli-CApiTal-ec09256e82424727b7836237ab78fe98',
-  author: 'Oli Capital',
+  author: 'Oli the CAT',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Welcome to Oli capital',
 
   // social usernames (optional)
-  twitter: '',
+  twitter: '@sleepy_oli',
   github: '',
   linkedin: '',
   // newsletter: '#', // optional newsletter URL
