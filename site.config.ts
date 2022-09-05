@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Oli-investing-ea55b79015134b99b9409772cd125720',
+  rootNotionPageId: 'Oli-CApiTal-ec09256e82424727b7836237ab78fe98',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Oli Investing',
-  domain: 'https://zhenzhang1990.notion.site/Oli-investing-ea55b79015134b99b9409772cd125720',
+  domain: 'https://zhenzhang1990.notion.site/Oli-CApiTal-ec09256e82424727b7836237ab78fe98',
   author: 'Oli Capital',
 
   // open graph metadata (optional)
